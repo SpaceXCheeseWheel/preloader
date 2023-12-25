@@ -1,5 +1,5 @@
 {
-  "name": "preloader",
+  "name": "component-preloader",
   "version": "0.0.2",
   "description": "Preload images",
   "main": "index.js",
