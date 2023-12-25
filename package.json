@@ -18,6 +18,6 @@
   "homepage": "https://github.com/SpaceXCheeseWheel/preloader#readme",
   "dependencies": {
     "batch": "github:visionmedia/batch#0.5.3",
-    "component-inherit": "github:component/inherit#0.0.3"
+    "inherit": "github:component/inherit#0.0.3"
   }
 }
