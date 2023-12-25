@@ -1,0 +1,23 @@
+{
+  "name": "preloader",
+  "version": "0.0.2",
+  "description": "Preload images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceXCheeseWheel/preloader.git"
+  },
+  "author": "component, SpaceXCheeseWheel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpaceXCheeseWheel/preloader/issues"
+  },
+  "homepage": "https://github.com/SpaceXCheeseWheel/preloader#readme",
+  "dependencies": {
+    "batch": "github:visionmedia/batch#0.5.3",
+    "component-inherit": "github:component/inherit#0.0.3"
+  }
+}
